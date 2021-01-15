@@ -16,21 +16,21 @@ JavaScript|           |            |            |Scout-App      |
 **1. Полноэкранный (fullscreen) блок на главной странице**
 
 ![Screenshort 1](/images/imgreadme/screen-main.jpg)
-&nbsp;
+
+**2. Медиа объекты**
+
 ![Screenshort 2](/images/imgreadme/screen2.jpg)
-&nbsp;
 
-
-**2. Слайдер**
+**3. Слайдер**
 
 ![Screenshort 3](/images/imgreadme/screen3.jpg)
 
 
-**3. Группа ввода**
+**4. Группа ввода**
 
 ![Screenshort 4](/images/imgreadme/screen4.jpg)
 
-**4. Адаптация до 320px**
+**5. Адаптация до 320px**
 
 ![Screenshort 5](/images/imgreadme/screen-mobile1.jpg)|![Screenshort 6](/images/imgreadme/screen-mobile2.jpg)
 ------------------------------------------------------|------------------------------------------------------
