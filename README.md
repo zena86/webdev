@@ -15,26 +15,26 @@ JavaScript|           |            |            |Scout-App      |
 
 **1. Полноэкранный (fullscreen) блок на главной странице**
 
-![Screenshort 1](/images/imgreadme/screen-main.png)
+![Screenshort 1](/images/imgreadme/screen-main.jpg)
 &nbsp;
-![Screenshort 2](/images/imgreadme/screen2.png)
+![Screenshort 2](/images/imgreadme/screen2.jpg)
 &nbsp;
 
 
 **2. Слайдер**
 
-![Screenshort 3](/images/imgreadme/screen3.png)
+![Screenshort 3](/images/imgreadme/screen3.jpg)
 
 
 **3. Группа ввода**
 
-![Screenshort 4](/images/imgreadme/screen4.png)
+![Screenshort 4](/images/imgreadme/screen4.jpg)
 
 **4. Адаптация до 320px**
 
-![Screenshort 5](/images/imgreadme/screen-mobile1.png)|![Screenshort 6](/images/imgreadme/screen-mobile2.png)
+![Screenshort 5](/images/imgreadme/screen-mobile1.jpg)|![Screenshort 6](/images/imgreadme/screen-mobile2.jpg)
 ------------------------------------------------------|------------------------------------------------------
-![Screenshort 7](/images/imgreadme/screen-mobile3.png)|![Screenshort 8](/images/imgreadme/screen-mobile4.png)
+![Screenshort 7](/images/imgreadme/screen-mobile3.jpg)|![Screenshort 8](/images/imgreadme/screen-mobile4.jpg)
 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
